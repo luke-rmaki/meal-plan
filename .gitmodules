@@ -1,0 +1,6 @@
+[submodule "packages/server"]
+	path = packages/server
+	url = git@github.com:luke-rmaki/meal-plan-server
+[submodule "packages/client"]
+	path = packages/client
+	url = git@github.com:luke-rmaki/meal-plan-client
